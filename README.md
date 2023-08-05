@@ -9,3 +9,5 @@ https://github.com/ahrink/AHR-Stamp
 #
 # Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
 # https://github.com/ahrink/Praevisio-Installer
+# ...
+# : https://github.com/ahrink/Ubuntu-Kylin-23.04
