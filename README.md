@@ -3,10 +3,11 @@ Explaining structures, programming/scripting and automated task management – s
 
 https://github.com/ahrink/AHR-Stamp
 
-# asof="20230805"
-# added simAHR.sh
-# https://github.com/ahrink/stamp
+# asof="20240409"
+# added ahr.c
+# https://github.com/ahrink/datestamp
 #
+# Other code that includes a datestamp
 # Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
 # https://github.com/ahrink/Praevisio-Installer
 # ...
