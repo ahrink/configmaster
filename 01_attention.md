@@ -4,7 +4,9 @@ outputs a counter in 9 digits numbers:biosdate.decimals
 
 translates to counts the number of users accessing ahr-stamp where
 1. biosdate is interpreted as YYYYMMDDHHmmss, followed by
-2. a nine digit microsecond in decimal format
+2. a nine digit (nanosecond) in decimal format
 
 https://github.com/ahrink/AHR-Stamp
-.
+...
+
+The C lang part: https://github.com/ahrink/datestamp
